@@ -15,4 +15,7 @@ after registration login with the same credentials that you use for registration
 <br>
 In the dashboard you will see customer list in a table.
 
+## Screenshots
+![Login](https://raw.githubusercontent.com/shaheen2013/bizTech/master/screenshots/login.png)
+![Customers](https://raw.githubusercontent.com/shaheen2013/bizTech/master/screenshots/customers.png)
 ### Thank you
